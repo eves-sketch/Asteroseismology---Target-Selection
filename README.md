@@ -1,5 +1,5 @@
 # Asteroseismology---Target-Selection
-In a small group project, I was responsible for selecting an initial sample of stars from the PIC. This repository contains the code used to analyse a dataset of over 300,000 stars, supporting the selection and evaluation process. 
+As part of a collaborative research project, I was responsible for the initial selection of stellar candidates from the PIC dataset. This repository contains the code developed to facilitate the analysis of a catalog comprising over 300,000 stars, enabling systematic evaluation, filtering, and characterization of the sample in preparation for subsequent astrophysical analyses.
 
 Asteroseismology probes stellar internal structure through the analysis of global oscillation modes. This project focuses on pressure modes (p-modes), which are stochastically excited by turbulent convection and restored by pressure forces, producing characteristic frequency spectra that encode information about stellar interiors.
 
